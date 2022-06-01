@@ -1,0 +1,4 @@
+#requirements needed for the django projects
+
+django >= 3.2.0
+virtualenv
